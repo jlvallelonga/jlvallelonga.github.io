@@ -1,6 +1,4 @@
 ---
-title: About page
+layout: post
 ---
-about me
-
-blah blah blah
+about page

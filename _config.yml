@@ -1,21 +1,11 @@
-theme: jekyll-theme-leap-day
-title: Just Push Buttons
-description: whatever buttons I freggin wanna push!
-collections:
-  authors:
-    output: true
-defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
+remote_theme: chesterhow/tale
+title: Just Push Buttons ...when all else fails
+
+permalink:    /:year-:month-:day/:title
+paginate:     5
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
