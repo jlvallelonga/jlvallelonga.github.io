@@ -1,4 +1,4 @@
-theme: tale
+remote_theme: chesterhow/tale
 title: Just Push Buttons
 
 permalink:    /:year-:month-:day/:title
