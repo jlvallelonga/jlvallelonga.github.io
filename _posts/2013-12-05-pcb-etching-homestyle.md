@@ -5,7 +5,7 @@ title: "PCB Etching - Home Style"
 ---
 The [instructable](http://www.instructables.com/id/Stop-using-Ferric-Chloride-etchant!--A-better-etc/){:target="_blank"} that I learned this from was pretty useful, but it left out a few things that I wanted to elaborate on.
 
-Supplies:
+Supplies: test
 
 - A blank PCB (“copper clad”) to etch your circuit from ([here’s](http://www.skycraftsurplus.com/coppercladcircuitboard-18x12.aspx){:target="_blank"} what I got but any copper clad will work. Note: avoid the 0.127″, it’s too thick to put some leads all the way through)
 - Sharpie (for etch resist)
