@@ -15,7 +15,7 @@ some pictures:
 
 ![cleaning etch resist](/assets/img/cleaning-etch-resist.jpg)
 
-Sorry for the lack of more pictures of the process. This is part way through the process of taking off the etch resist with acetone (see [home style etching](http://justpushbuttons.com/blog/?page_id=111){:target="_blank"}).
+Sorry for the lack of more pictures of the process. This is part way through the process of taking off the etch resist with acetone (see [home style etching]({{ site.baseurl}}{% post_url 2013-12-05-pcb-etching-homestyle %})).
 
 ![over light buzzer](/assets/img/oven-light-buzzer.jpg)
 

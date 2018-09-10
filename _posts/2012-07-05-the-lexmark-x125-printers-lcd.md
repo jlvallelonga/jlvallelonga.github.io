@@ -15,7 +15,7 @@ The last printer I disassembled had a pretty nice little LCD in it, so I figured
 
 ![](/assets/img/open-cover-and-remove-paper-jam.jpg)
 
-A quick google search of the part number on the back of the LCD (“P1620B”) lead me to [this thread](http://www.lynxmotion.net/viewtopic.php?t=5099){:target="_blank"}. Reading through I saw that someone noted that the 14 pin version (more commonly 16 pins I think) was probably just missing pins 15 and 16 which were for a backlight. Thinking about it some more, it kind of reminded me of [one of the LCDs that Sparkfun carries](http://www.sparkfun.com/products/255){:target="_blank"}. If it was only missing a backlight then it would be extremely easy to interface to since the Arduino environment comes with example code for this kind of LCD.  So I desoldered the LCD from the ribbon cable…
+A quick google search of the part number on the back of the LCD (“P1620B”) lead me to [this thread](https://www.robotshop.com/forum/lcd-from-printer-t5099){:target="_blank"}. Reading through I saw that someone noted that the 14 pin version (more commonly 16 pins I think) was probably just missing pins 15 and 16 which were for a backlight. Thinking about it some more, it kind of reminded me of [one of the LCDs that Sparkfun carries](http://www.sparkfun.com/products/255){:target="_blank"}. If it was only missing a backlight then it would be extremely easy to interface to since the Arduino environment comes with example code for this kind of LCD.  So I desoldered the LCD from the ribbon cable…
 
 ![](/assets/img/lexmark-x125-pcb-cable-cut.jpg)
 
@@ -23,6 +23,6 @@ And I soldered some header pins on the LCD (sorry, no “exciting” pictures fo
 
 ![hello world](/assets/img/lexmark-x125-hello-world.jpg)
 
-That was a lot easier than last time.
+That was a lot easier than [last time]({{ site.baseurl }}{% post_url 2012-05-19-salvaging-a-brother-printers-lcd %}).
 
 Got any working LCDs you’ve salvaged from old printers/electronics? Drop a link in the comments.

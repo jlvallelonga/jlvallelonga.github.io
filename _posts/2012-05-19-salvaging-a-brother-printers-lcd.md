@@ -27,9 +27,9 @@ In case you can’t read upside down and backwards, it says “Please Wait”. I
 
 The logic analyzer software has options to analyze I2C, SPI, and a bunch of other types of logic. I was pretty sure that it was either I2C or SPI, but I didn’t know which one, and I didn’t know enough about either one to figure it out. I was finally to the point in my electronics hobbiest career where I had to learn I2C and SPI. I had a feeling that it was using I2C so I started with that.
 
-A quick Google search of “I2C” lead me to [this tutorial](http://www.robot-electronics.co.uk/acatalog/I2C_Tutorial.html){:target="_blank"}, and after a bit of reading I felt I had a pretty good understanding of the bus. Since I felt like the data was I2C, I decided to wait on learning the SPI bus. However looking back at and analyzing the logic capture file that I had saved, I realized that the software wasn’t analyzing the data as anything readable and there was a mysterious line that would go logic low when the data was sent. It was time to stop being lazy and learn SPI (which, in the end, wasn’t really that difficult).
+A quick Google search of “I2C” lead me to [this tutorial](http://www.robot-electronics.co.uk/i2c-tutorial){:target="_blank"}, and after a bit of reading I felt I had a pretty good understanding of the bus. Since I felt like the data was I2C, I decided to wait on learning the SPI bus. However looking back at and analyzing the logic capture file that I had saved, I realized that the software wasn’t analyzing the data as anything readable and there was a mysterious line that would go logic low when the data was sent. It was time to stop being lazy and learn SPI (which, in the end, wasn’t really that difficult).
 
-Another quick Google search of “spi tutorial” lead me to a couple of tutorials ([first one](http://www.best-microcontroller-projects.com/spi-interface.html){:target="_blank"}, [second one](http://www.eetimes.com/discussion/beginner-s-corner/4023908/Introduction-to-Serial-Peripheral-Interface){:target="_blank"}). Turns out that mysterious line that would go logic low when data was sent was the slave select line. Plugging what I learned into the logic analyzer software and tweaking the settings a bit led me to a really geeky point in my life. I saw the following on the screen and was more excited than I’d like to admit:
+Another quick Google search of “spi tutorial” lead me to a couple of tutorials ([first one](http://www.best-microcontroller-projects.com/spi-interface.html){:target="_blank"}, [second one](https://www.embedded.com/electronics-blogs/beginner-s-corner/4023908/Introduction-to-Serial-Peripheral-Interface){:target="_blank"}). Turns out that mysterious line that would go logic low when data was sent was the slave select line. Plugging what I learned into the logic analyzer software and tweaking the settings a bit led me to a really geeky point in my life. I saw the following on the screen and was more excited than I’d like to admit:
 
 ![](/assets/img/please-wait-spi-analysis-results.jpg)
 
@@ -124,8 +124,8 @@ I began the process of cleaning up my code and found that most of the timing did
 
 I just finished writing up an arduino library to do some fancy stuff with it. Check out my video below. Thanks for reading, and I hope you got something out of it.
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/KGdUqVe2NVE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KGdUqVe2NVE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-UPDATE: Here’s a pinout to for the ribbon connector. Also I’ve added my [arduino library and demo code](https://github.com/jlvallelonga/BroLCD-Library){:target="_blank"} to Github. For immediate use, you can download the BroLCD library and demo code as a zip file [here](http://justpushbuttons.com/downloads/BroLCD.zip){:target="_blank"}.
+UPDATE: Here’s a pinout to for the ribbon connector. Also I’ve added my [arduino library and demo code](https://github.com/jlvallelonga/BroLCD-Library){:target="_blank"} to Github. For immediate use, you can download the BroLCD library and demo code as a zip file [here](/assets/downloads/BroLCD.zip).
 
 ![brother 5860 lcd pinout](/assets/img/bro5860-lcd-pinout.jpg)
