@@ -11,7 +11,7 @@ Supplies:
 - Sharpie (for etch resist)
 - Muriatic acid – 20 Baume 31.45% (the 14.5% junk doesn’t work). Also take care not to murder yourself with this stuff.
 - Hydrogen peroxide – 3%
-- A glass container with a lid. Make sure that the lid is not airtight. If it is airtight, it can explode… acid everywhere… bad news.
+- A glass container with a lid. Make sure that the lid is not airtight. If it is airtight, it can explode… acid everywhere… bad news
 - Nerd goggles (safety first)
 - Particle respirator mask
 - Automotive rubbing compound (from the auto parts store)
