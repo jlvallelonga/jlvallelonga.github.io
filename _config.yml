@@ -1,7 +1,7 @@
+theme: tale
 title: Just Push Buttons
 github:
   repository_url: https://github.com/jlvallelonga/jlvallelonga.github.io
-remote_theme: chesterhow/tale
 
 permalink:    /:year-:month-:day/:title
 paginate:     5
