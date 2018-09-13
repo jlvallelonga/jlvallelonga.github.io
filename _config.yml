@@ -1,5 +1,5 @@
 remote_theme: chesterhow/tale
-title: Just Push Buttons
+title: just push buttons
 
 permalink:    /:year-:month-:day/:title
 paginate:     5
