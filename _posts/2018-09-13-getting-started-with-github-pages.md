@@ -70,6 +70,6 @@ The last thing to do is to enforce HTTPS (if it isn't already). Under the projec
 
 ![](/assets/img/github-settings-enforce-https.png)
 
-You will have to wait some time before the DNS changes propagate, but come back in a day or two and your site should be up at the custom domain that you set up! Let me know in the comments if you have any questions or issues with the process of setting up your site. Or submit a pull request to suggest a change.
+You will have to wait some time before the DNS changes propagate, but come back in a day or two and your site should be up at the custom domain that you set up! Let me know in the comments if you have any questions or issues with the process of setting up your site. Or [submit a pull request](https://github.com/jlvallelonga/jlvallelonga.github.io/edit/master/{{ page.relative_path }}) to suggest a change.
 
 Thanks for reading!
