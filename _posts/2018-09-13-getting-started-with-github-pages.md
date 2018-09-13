@@ -1,6 +1,5 @@
 ---
 layout: post
-author: justin
 title: "Getting Started With GitHub Pages"
 ---
 I'm hoping to document the things that I set up for this blog well enough so that anyone trying to do the same things can struggle less than I did. Plus, I like the idea of having a blog that contains meta documentation. You can do it too!

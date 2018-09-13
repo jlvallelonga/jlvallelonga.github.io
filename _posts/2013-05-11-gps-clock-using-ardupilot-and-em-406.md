@@ -1,6 +1,5 @@
 ---
 layout: post
-author: justin
 title: "GPS Clock using ArduPilot and EM-406"
 ---
 So we got tired of not being able to see what time it was when we were watching movies/shows on Netflix. We could have just bought a clock, but where’s the fun in that? I had an EM-406 GPS module and an ArduPilot lying around, and I heard about [Sparkfun’s 12ft GPS Wall Clock](http://www.sparkfun.com/tutorials/47){:target="_blank"} so I figured I would give it a try.

@@ -1,6 +1,5 @@
 ---
 layout: post
-author: justin
 title: "Infrared Gap Counter"
 ---
 ![](/assets/img/large_tank_treads.jpg) I wanted to enable my robot with a sense of distance. Luckily my robot has build in distance markers in its [tank treads](http://www.sparkfun.com/products/321){:target="_blank"}. There are little gaps in the treads which I can put [infrared emitters and detectors](http://www.sparkfun.com/products/241){:target="_blank"} on either side of. This will allow my arduino to count the number of gaps that have passed by while the robot is moving.

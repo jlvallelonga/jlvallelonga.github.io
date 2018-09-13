@@ -1,6 +1,5 @@
 ---
 layout: post
-author: justin
 title: "Raspberry Pi and Arduino: Serial Communication Over GPIO pins"
 ---
 ![Just a picture of the Raspberry Pi running](/assets/img/rPi-with-portable-DVD-player.jpg)

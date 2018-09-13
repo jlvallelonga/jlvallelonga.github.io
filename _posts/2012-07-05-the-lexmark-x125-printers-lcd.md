@@ -1,6 +1,5 @@
 ---
 layout: post
-author: justin
 title: "The Lexmark X125 Printer’s LCD"
 ---
 I took another printer off of my stack yesterday. This one happened to be a Lexmark X125. My original intent was to turn it into a [PCB printer](http://hackaday.com/2012/04/24/printing-pcbs-on-a-junked-epson-printer/){:target="_blank"}, but after trying a few test prints I found that there wasn’t anymore ink left in it and I wasn’t about to buy ink for a printer that I got for free; there are plenty more where that one came from. Thus, I began to destructionate.

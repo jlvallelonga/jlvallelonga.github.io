@@ -1,6 +1,5 @@
 ---
 layout: post
-author: justin
 title: "Oven Light Buzzer"
 ---
 Watching the preheat light on your oven and waiting for it to go off is sooo much work (yes I am extremely lazy). A lot of modern ovens have a built in buzzer to notify you when they are preheated. If that were the case with my oven, and it was just broken, I could just hit something like [PartSelect](http://www.partselect.com/){:target="_blank"} for a replacement. However, my oven is ancient, and it does not have one of these fancy buzzers built in. Easy fix though with a simple circuit containing some transistors, a potentiometer, a photoresistor, and, you guessed it, a buzzer! look at it (would you [look at it](http://www.youtube.com/watch?v=EF8GhC-T_Mo){:target="_blank"}).

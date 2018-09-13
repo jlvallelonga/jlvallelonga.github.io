@@ -1,6 +1,5 @@
 ---
 layout: post
-author: justin
 title: "PCB Etching - Home Style"
 ---
 The [instructable](http://www.instructables.com/id/Stop-using-Ferric-Chloride-etchant!--A-better-etc/){:target="_blank"} that I learned this from was pretty useful, but it left out a few things that I wanted to elaborate on.

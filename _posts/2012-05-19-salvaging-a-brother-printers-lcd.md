@@ -1,6 +1,5 @@
 ---
 layout: post
-author: justin
 title: "Salvaging a Brother printer’s LCD"
 ---
 I’ve recently acquired a few printers for salvaging the stepper motors out of them. In taking one apart (specifically a Brother MFC-5860CN), I found that the LCD had a 6 pin ribbon cable connected to it. I figured it wouldn’t be too hard to figure out the communication protocol and talk to it so I gave it a shot. Well it wasn’t too hard, but it did take some time and effort.

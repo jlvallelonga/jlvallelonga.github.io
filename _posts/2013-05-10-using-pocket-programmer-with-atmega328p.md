@@ -1,6 +1,5 @@
 ---
 layout: post
-author: justin
 title: "Using the Pocket Progmammer with ATMega328p"
 ---
 ![](/assets/img/atmega328.jpg)
